@@ -1,0 +1,4 @@
+package com.portal.jobportal.services;
+
+public class CustomUserDetailsService {
+}
